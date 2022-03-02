@@ -1,0 +1,16 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "search and generate csv from website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "objects-to-csv": "^1.3.6",
+    "puppeteer": "^13.4.1"
+  }
+}
